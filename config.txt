@@ -1,6 +1,6 @@
-token=NTE4NDExMzI2MjAxMTM1MTM3.DuQjsA.fkymd-CvwP9X6DUCkjThNnmcg1E
-owner=462038057529507841 
-prefix=A
-game=I love my self , 
+token=NTI2NDE3Mjc2NDgwNjUxMjg1.DwE4JA.wG4H06LE3jAC4oKTcP-Iw7mncho
+owner=451162715981873173 
+prefix=+
+game=Create By » FT  , Bõ#9999 ,
 stayinchannel=true
 songinstatus=false
